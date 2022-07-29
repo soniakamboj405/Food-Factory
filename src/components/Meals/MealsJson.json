@@ -1,0 +1,32 @@
+[
+    {
+      "_id": "6281522674b9e5b46d2f2495",
+      "name": "Lamb vindaloo",
+      "description": "A quick and easy, spicy curry featuring meat marinated in a tangy vinegar sauce.",
+      "price": 50.99
+    },
+    {
+      "_id": "6293611bf5995e69498e5c25",
+      "name": "Dal makhani",
+      "description": "A stew made with whole black or yellow lentils.",
+      "price": 25.99
+    },
+    {
+      "_id": "6293613af5995e69498e5c2c",
+      "name": "Aloo gobi",
+      "description": "Crisp golden potatoes and cauliflower.",
+      "price": 10.99
+    },
+    {
+      "_id": "62936163f5995e69498e5c30",
+      "name": "Biryani",
+      "description": "A meat-and-rice mixed dish that’s a popular staple food in Kashmiri cuisine.",
+      "price": 21.99
+    },
+    {
+        "_id": "62815afb5b903da776f90dd6",
+        "name": "Fresh Salad",
+        "description": "Perefect combintation of fresh veggies",
+        "price": 15.99
+    }
+  ]
